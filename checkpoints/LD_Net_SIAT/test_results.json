@@ -1,0 +1,24 @@
+{
+    "dataset": "SIAT",
+    "total_train_time_sec": -1.0,
+    "training_history": {},
+    "diagnostic_metrics": {
+        "mse_to_Y": 0.012438914738595486,
+        "mse_to_X": 0.0002750504936557263,
+        "corr_to_Y": 0.9211845993995667,
+        "corr_to_X": 0.9304170608520508,
+        "energy_ratio_hat_vs_Y": 1.0145443677902222,
+        "collapsed_like_copyX": false
+    },
+    "baseline_metrics": {
+        "loss_l1": 0.07593784434720874,
+        "rmse": 0.08394451718777418,
+        "snr_db": 3.6085914373397827
+    },
+    "ld_net_metrics": {
+        "loss_l1": 0.07521984966782232,
+        "rmse": 0.08214632476059099,
+        "snr_db": 4.328233500321706
+    },
+    "snr_improvement_db": 0.7196420629819231
+}
